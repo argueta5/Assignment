@@ -1,0 +1,8 @@
+/* src/Review.css */
+.review {
+    border-bottom: 1px solid #ddd; /* Border to separate reviews */
+    padding: 10px; /* Padding for readability */
+    margin-bottom: 10px; /* Space between reviews */
+    font-size: 1rem; /* Font size for the review text */
+    color: #333; /* Dark gray color for the text */
+  }

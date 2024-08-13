@@ -1,0 +1,31 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align form elements */
+    margin-top: 20px; /* Margin above the form */
+    margin-left: 20px;
+  }
+  
+  textarea {
+    width: 100%; /* Full width for the textarea */
+    padding: 10px; /* Padding inside the textarea */
+    margin-bottom: 10px; /* Space between textarea and button */
+    border: 1px solid #ddd; /* Border around the textarea */
+    border-radius: 4px; /* Rounded corners for the textarea */
+    font-size: 1rem; /* Font size for the textarea text */
+    resize: vertical; /* Allow vertical resizing only */
+  }
+  
+  button {
+    padding: 10px 20px; /* Padding for the button */
+    font-size: 1rem; /* Font size for the button text */
+    color: white; /* White text color */
+    background-color: #007bff; /* Blue background color */
+    border: none; /* Remove default border */
+    border-radius: 4px; /* Rounded corners for the button */
+    cursor: pointer; /* Cursor changes to pointer to indicate it's clickable */
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }

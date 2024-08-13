@@ -1,0 +1,16 @@
+/* src/App.css */
+.App {
+  text-align: center; /* Center align all content */
+  font-family: Arial, sans-serif; /* Font for the entire app */
+}
+
+.App-header {
+  background-color: #c53800; /* Dark background for header */
+  padding: 20px; /* Padding around header content */
+  color: white; /* White text color */
+}
+
+h1 {
+  margin: 0; /* Remove margin around header text */
+  font-size: 2rem; /* Font size for the header */
+}

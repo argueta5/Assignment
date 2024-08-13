@@ -1,0 +1,12 @@
+.stars {
+    font-size: 24px; /* Size of the stars */
+    cursor: pointer; /* Cursor changes to pointer to indicate it's clickable */
+  }
+  
+  .star {
+    color: #ccc; /* Default color for empty stars */
+  }
+  
+  .star.filled {
+    color: gold; /* Color for filled stars */
+  }

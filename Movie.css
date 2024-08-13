@@ -1,0 +1,27 @@
+/* src/Movie.css */
+.movie {
+    border: 1px solid #ddd; /* Border around the movie card */
+    border-radius: 8px; /* Rounded corners */
+    padding: 20px; /* Padding inside the card */
+    margin: 20px; /* Margin around the card */
+    max-width: 300px; /* Maximum width of the card */
+    text-align: center; /* Center align text inside the card */
+    background-color: #fff; /* White background for the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .movie img {
+    width: 100%; /* Full width for the movie image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Rounded corners for the image */
+  }
+  
+  .movie h2 {
+    margin: 10px 0; /* Margin around the movie title */
+    font-size: 1.5rem; /* Font size for the title */
+  }
+  
+  .movie p {
+    color: #666; /* Dark gray color for the synopsis */
+    font-size: 1rem; /* Font size for the synopsis */
+  }

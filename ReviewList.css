@@ -1,0 +1,5 @@
+/* src/ReviewList.css */
+.review-list {
+    margin-top: 20px; /* Space above the review list */
+    padding: 0; /* Remove default padding */
+  }
